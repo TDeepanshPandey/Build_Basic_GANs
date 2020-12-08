@@ -9,3 +9,4 @@ Offered by deeplearning.ai on Coursera
 5. Controllable Generation
 
 Certificate URL - *https://coursera.org/share/2bc5f2d6c8099d449359c3a3586c46cf*
+![https://coursera.org/share/2bc5f2d6c8099d449359c3a3586c46cf](https://github.com/TDeepanshPandey/Build_Basic_GANs/blob/main/certificate_basic_gans.png)
